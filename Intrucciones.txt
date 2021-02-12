@@ -1,0 +1,17 @@
+Guía de Estilos
+
+Detalles de los colores están creados en las variables CSS, mira el archivo "style.css".
+
+/*Global*/
+/* Propiedades Personalizadas */
+:root{
+    --main-bg-color: #191919;
+    --secondary-color: #5DBCF9;
+}
+La imagen "resultado_final.png" es la referencia visual de cómo debe quedar al final el proyecto.
+El dibujo del proyecto tiene un tamaño apróximado de 400px de ancho por 300px de alto.
+
+Si tienes dudas adiconales me puedes contactar a: jair@cooltimedia.com
+
+Gracias por participar.
+Te deseamos los mejor.
